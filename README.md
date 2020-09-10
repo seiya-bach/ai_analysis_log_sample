@@ -1,6 +1,7 @@
 # ai_analysis_log_sample
 
 ## 概要
+実行ファイルはsrc/ai_analysis_log.phpです。
 画像ファイルを指定して実行するとAPIの応答をもとにDBのai_analysis_logテーブルに登録されます。
 
 引数に画像ファイルのパスを付けて実行します。成功するとSuccess!のメッセージが表示されます。
