@@ -4,7 +4,7 @@
 実行ファイルはsrc/ai_analysis_log.phpです。
 画像ファイルを指定して実行するとAPIの応答をもとにDBのai_analysis_logテーブルに登録されます。
 
-引数に画像ファイルのパスを付けて実行します。成功するとSuccess!のメッセージが表示されます。
+処理に成功するとSuccess!のメッセージが表示されます。
 ```
 $ php ai_analysis_log.php /Users/seiya/photo.jpg
 Success!
